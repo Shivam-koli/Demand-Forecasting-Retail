@@ -132,6 +132,3 @@ Metrics:
 ✔ Optional deployment makes it **portfolio-ready**.  
 
 --- 
-
-
-git remote add origin https://github.com/<Shivam-koli>/<https://github.com/Shivam-koli/Demand-Forecasting-Retail.git>.git
